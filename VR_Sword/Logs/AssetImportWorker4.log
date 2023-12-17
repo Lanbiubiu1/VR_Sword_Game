@@ -1,0 +1,1140 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.0f1 (fb119bb0b476) revision 16454043'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 16068 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/Zixiao/VR_Sword
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+51489
+Successfully changed project path to: C:/Users/Zixiao/VR_Sword
+C:/Users/Zixiao/VR_Sword
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [42536] Host "[IP] 192.168.75.1 [Port] 0 [Flags] 2 [Guid] 2706562876 [EditorId] 2706562876 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-Q7SNLRSS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [42536] Host "[IP] 192.168.75.1 [Port] 0 [Flags] 2 [Guid] 2706562876 [EditorId] 2706562876 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-Q7SNLRSS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 1114.29 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 2.72 ms.
+Initialize engine version: 2022.3.0f1 (fb119bb0b476)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Zixiao/VR_Sword/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   NVIDIA
+    VRAM:     12010 MB
+    Driver:   31.0.15.3734
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007281 seconds.
+- Loaded All Assemblies, in  1.320 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 407 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.961 seconds
+Domain Reload Profiling: 2280ms
+	BeginReloadAssembly (162ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (386ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (689ms)
+		LoadAssemblies (157ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (683ms)
+			TypeCache.Refresh (682ms)
+				TypeCache.ScanAssembly (497ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (962ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (880ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (584ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (192ms)
+			ProcessInitializeOnLoadMethodAttributes (93ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.306 seconds
+Refreshing native plugins compatible for Editor in 8.66 ms, found 9 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.89.0
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.545 seconds
+Domain Reload Profiling: 2844ms
+	BeginReloadAssembly (192ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (68ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (75ms)
+	LoadAllAssembliesAndSetupDomain (940ms)
+		LoadAssemblies (433ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (580ms)
+			TypeCache.Refresh (508ms)
+				TypeCache.ScanAssembly (491ms)
+			ScanForSourceGeneratedMonoScriptInfo (48ms)
+			ResolveRequiredComponents (24ms)
+	FinalizeReload (1546ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1212ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (33ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (124ms)
+			ProcessInitializeOnLoadAttributes (996ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 74.63 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.21 ms.
+Unloading 5336 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 95 unused Assets / (1.5 MB). Loaded Objects now: 5791.
+Memory consumption went from 294.5 MB to 293.1 MB.
+Total: 11.770000 ms (FindLiveObjects: 1.491700 ms CreateObjectMapping: 0.483700 ms MarkObjects: 7.384400 ms  DeleteObjects: 2.408000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 19237.460350 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Bows and Arrows/arrow01_yellow.prefab
+  artifactKey: Guid(b4bce2465ee25ac41b72c7aa049f3c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Bows and Arrows/arrow01_yellow.prefab using Guid(b4bce2465ee25ac41b72c7aa049f3c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd636479c5f2878ec98db3b00e53dc957') in 0.081692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.022044 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Axes/2Hand Axes/axe2h03_yellow.prefab
+  artifactKey: Guid(ba2c9ef573f1e454e85bfac53db244d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Axes/2Hand Axes/axe2h03_yellow.prefab using Guid(ba2c9ef573f1e454e85bfac53db244d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f141c01e43ea9558d4cdba1542d212') in 0.014059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.003711 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Axes/2Hand Axes/axe2h09_yellow.prefab
+  artifactKey: Guid(c2ba918cb89792d47a6dc2993e440dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Axes/2Hand Axes/axe2h09_yellow.prefab using Guid(c2ba918cb89792d47a6dc2993e440dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7036f2714d1503ba3f180973d365b75') in 0.016147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.002742 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Axes/2Hand Axes/axe2h13_yellow.prefab
+  artifactKey: Guid(ebf626e16e9713440b3c716048a5d0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Axes/2Hand Axes/axe2h13_yellow.prefab using Guid(ebf626e16e9713440b3c716048a5d0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d23bee7a5941eb46a060559ed333030') in 0.015836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.005854 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/EyeGaze/bb_data_eyegaze.asset
+  artifactKey: Guid(bb4c0ea9ba5f6dd439fcd251d8c8d449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/EyeGaze/bb_data_eyegaze.asset using Guid(bb4c0ea9ba5f6dd439fcd251d8c8d449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a1175ff563cb57e138d338a35c0855') in 0.014117 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.006756 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Food/bellpepper01_yellow.prefab
+  artifactKey: Guid(0aeae16e918dd204f91a962d8c782b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Food/bellpepper01_yellow.prefab using Guid(0aeae16e918dd204f91a962d8c782b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c672c3b1b1ef77d58f6f236842e04e6') in 0.015148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.010948 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Bows and Arrows/bow04_yellow.prefab
+  artifactKey: Guid(d772eca340662e345b81fb76a6d03591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Bows and Arrows/bow04_yellow.prefab using Guid(d772eca340662e345b81fb76a6d03591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf6544d6f65b4a63c1bc7a43c5ea782') in 0.049243 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.004598 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger05_yellow.prefab
+  artifactKey: Guid(1cc7cab0fbd65444795cec9defc642f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger05_yellow.prefab using Guid(1cc7cab0fbd65444795cec9defc642f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6760f9e3a656b02b1d2ae939c32129') in 0.017858 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.004326 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger09_yellow.prefab
+  artifactKey: Guid(4f71e51eb794aac4cbaab31d8a8b9213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger09_yellow.prefab using Guid(4f71e51eb794aac4cbaab31d8a8b9213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bbdb518cdf62f0c264fb29367c0930') in 0.018402 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.005644 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger14_yellow.prefab
+  artifactKey: Guid(bc69cfa1a23c57b43a47bbc4f2a25df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger14_yellow.prefab using Guid(bc69cfa1a23c57b43a47bbc4f2a25df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d50b2f6f2880452b38cc6fa67dbb76') in 0.017086 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger18_yellow.prefab
+  artifactKey: Guid(e3faba274241676488d34d52a4d7b5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Daggers/dagger18_yellow.prefab using Guid(e3faba274241676488d34d52a4d7b5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '373b2d172b69ebdd11e8ab090ff5310b') in 0.018152 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.648963 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Debug/ActiveStateDebugTree.prefab
+  artifactKey: Guid(dc0992b1665af9548996ae6d0807dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Debug/ActiveStateDebugTree.prefab using Guid(dc0992b1665af9548996ae6d0807dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4080a355fb28f70e29433da46fc165ef') in 0.040487 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 62
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Debug/PointableDebugVisual.prefab
+  artifactKey: Guid(edb63bed74183984992e5146f6e58bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Debug/PointableDebugVisual.prefab using Guid(edb63bed74183984992e5146f6e58bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c940b5c0f6f69119933d3a0124018c') in 0.007056 seconds
+Internal: JobTempAlloc has allocations that are more than the maximum lifespan of 4 frames old - this is not allowed and likely a leak
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000952 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Debug/TransformFeatureVectorDebugParentVisual.prefab
+  artifactKey: Guid(5f611a36d70d46a4ba7f1233f9c4444e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Debug/TransformFeatureVectorDebugParentVisual.prefab using Guid(5f611a36d70d46a4ba7f1233f9c4444e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae239e5f0e4abdc8cebecfa03e54abf2') in 0.005007 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.002502 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Prefabs/Debug/TransformRecognizerDebugVisual.prefab
+  artifactKey: Guid(1655dfcb8fc5f2b468db636edf92c279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Prefabs/Debug/TransformRecognizerDebugVisual.prefab using Guid(1655dfcb8fc5f2b468db636edf92c279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240a030ffa890040895459c479a59815') in 0.035618 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 36
+========================================================================
+Received Import Request.
+  Time since last request: 18.517284 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Models/Locomotion/Teleport/TeleportInteractable.cs
+  artifactKey: Guid(4462db6b836045640a882a2a4e4022f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Models/Locomotion/Teleport/TeleportInteractable.cs using Guid(4462db6b836045640a882a2a4e4022f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccdf9139347e8e08aacfc4ebf85f266e') in 0.000625 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.633240 seconds.
+  path: Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Models/Locomotion/Teleport/TeleportInteractor.cs
+  artifactKey: Guid(4f62acf90e41ded439f14c4e15871abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Models/Locomotion/Teleport/TeleportInteractor.cs using Guid(4f62acf90e41ded439f14c4e15871abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55120b1e0f90136a9d43e2c5a87153d0') in 0.000479 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 31.822530 seconds.
+  path: Assets/Scenes/test_teleport.unity
+  artifactKey: Guid(ff3c724ea67d1a0448510d7e1898cdbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/test_teleport.unity using Guid(ff3c724ea67d1a0448510d7e1898cdbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7958b8c7e5c6848d81bc5cc1edfd2743') in 0.001000 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 243.220652 seconds.
+  path: Assets/Scenes/environment.unity
+  artifactKey: Guid(1e337af3cbee3034a913856da55f68cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/environment.unity using Guid(1e337af3cbee3034a913856da55f68cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055456260bde561b3a69ad179a6e6904') in 0.000781 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 57.903207 seconds.
+  path: Assets/3D Items - Mega Pack/Read Me.txt
+  artifactKey: Guid(eae6c3129f49a3545a5ff3ee2ccad29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Read Me.txt using Guid(eae6c3129f49a3545a5ff3ee2ccad29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85327c34f47df154998270d03a02a2b5') in 0.001587 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 32.957939 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h03_blue.prefab
+  artifactKey: Guid(28ea3eccd16c9af4eaf0ed17770a41f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h03_blue.prefab using Guid(28ea3eccd16c9af4eaf0ed17770a41f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a941557a5a9d21a55db745bd5c2ae4') in 0.019803 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.004694 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h03_yellow.prefab
+  artifactKey: Guid(3a0926cbbab459e43b1820869f96d17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h03_yellow.prefab using Guid(3a0926cbbab459e43b1820869f96d17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa3977d6ef837886115752cda3088e7') in 0.016812 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h04_blue.prefab
+  artifactKey: Guid(fde4c8a8a3a12d342a6a875ae160f4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h04_blue.prefab using Guid(fde4c8a8a3a12d342a6a875ae160f4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0701b4c80118e72f4c12c688ee8a758d') in 0.016873 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h03_grey.prefab
+  artifactKey: Guid(6911231c57913414ebbe8c1f028a1acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h03_grey.prefab using Guid(6911231c57913414ebbe8c1f028a1acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6314be523af2c732ce013b2eba39d131') in 0.017046 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h05_white.prefab
+  artifactKey: Guid(5430ee922b569f64fa43e19fc4e5e1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h05_white.prefab using Guid(5430ee922b569f64fa43e19fc4e5e1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a20606a3b0eecbc1afd88dc7cf02f0') in 0.017023 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h05_yellow.prefab
+  artifactKey: Guid(fcdd3be049e64924783589517d923f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h05_yellow.prefab using Guid(fcdd3be049e64924783589517d923f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7338d5e8011faca3475c17cd203718b') in 0.015078 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h06_red.prefab
+  artifactKey: Guid(9b079b77d7c191b4db371537256529f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h06_red.prefab using Guid(9b079b77d7c191b4db371537256529f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c86463d69e306e5c2efb6cfa0421a9') in 0.015973 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h07_green.prefab
+  artifactKey: Guid(5d92b6e79daecad4aa763b3ecf796226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h07_green.prefab using Guid(5d92b6e79daecad4aa763b3ecf796226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e3baadfb194e72666ae7a9fc1558b6') in 0.017503 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h08_grey.prefab
+  artifactKey: Guid(e97f02a3d52ee91409e4a60506994272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h08_grey.prefab using Guid(e97f02a3d52ee91409e4a60506994272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e74d6f6b11c99d90e69a73c38f0082') in 0.017521 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h08_white.prefab
+  artifactKey: Guid(52c4ce41316f481449d7f1d4b51d25c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h08_white.prefab using Guid(52c4ce41316f481449d7f1d4b51d25c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34614329e6e07217db374f7a6347e6e1') in 0.018777 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h09_yellow.prefab
+  artifactKey: Guid(702105e010eab1444aac71163cebb98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h09_yellow.prefab using Guid(702105e010eab1444aac71163cebb98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d0b28132d71d1dec2dd84ffc182a47') in 0.017470 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h10_white.prefab
+  artifactKey: Guid(65da2a4e8d792564bae6774836738304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h10_white.prefab using Guid(65da2a4e8d792564bae6774836738304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e2a94613d024514f53944e3ca74518') in 0.018141 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_blue.prefab
+  artifactKey: Guid(90ec4012447ca0345b5b13a9d0dca732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_blue.prefab using Guid(90ec4012447ca0345b5b13a9d0dca732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7419babd218494cab47970354b08e2f') in 0.017724 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h12_black.prefab
+  artifactKey: Guid(ac9e1d268361668409997cdd40b2b03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h12_black.prefab using Guid(ac9e1d268361668409997cdd40b2b03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65a84b30bb7bb631e9e9bec7bd01a59') in 0.018940 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_red.prefab
+  artifactKey: Guid(ef2576905f44e7c449e6d8aabd15e518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_red.prefab using Guid(ef2576905f44e7c449e6d8aabd15e518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ca7c1dcf626353d5d27f52555e8439') in 0.018305 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h13_blue.prefab
+  artifactKey: Guid(bbfb5f2ade0c4604393923466fde0f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h13_blue.prefab using Guid(bbfb5f2ade0c4604393923466fde0f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89dc0b90f531c9866e1b79aac41acae8') in 0.018018 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h13_red.prefab
+  artifactKey: Guid(f7c145ff6be070845bfc604610160bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h13_red.prefab using Guid(f7c145ff6be070845bfc604610160bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '791bc2273590732316296b9d6ecb1a7c') in 0.018979 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h14_white.prefab
+  artifactKey: Guid(3bc9df4637f70d846916eec0d574aef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h14_white.prefab using Guid(3bc9df4637f70d846916eec0d574aef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148dd6a8c41f31101c94d0f1842f0945') in 0.017538 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h15_brown.prefab
+  artifactKey: Guid(5b22d77440a51de42bd2205847e74681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h15_brown.prefab using Guid(5b22d77440a51de42bd2205847e74681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00fb6a3c7e335cbaf9a3c7aa10f76a9c') in 0.017035 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h16_black.prefab
+  artifactKey: Guid(3e7222eea5bb538429fe3de26e231659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h16_black.prefab using Guid(3e7222eea5bb538429fe3de26e231659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98acc0299578e0b1af8fa851b8de4c19') in 0.021564 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h16_grey.prefab
+  artifactKey: Guid(f162f531aa90f124cb1c92ecabaad04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h16_grey.prefab using Guid(f162f531aa90f124cb1c92ecabaad04e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8f737a96e6a344132535db22136df3') in 0.017150 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_green.prefab
+  artifactKey: Guid(273c51def50cf554ebc423e0b4809459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_green.prefab using Guid(273c51def50cf554ebc423e0b4809459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a057f42fdb557045ed56c4eed1285a0d') in 0.018164 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_green.prefab
+  artifactKey: Guid(3cdac06dae26ed9498991c153b091fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_green.prefab using Guid(3cdac06dae26ed9498991c153b091fb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799de5d7caff0202755febb8319fe290') in 0.017163 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_grey.prefab
+  artifactKey: Guid(e173b31a4dc160a47a54430c3e37730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_grey.prefab using Guid(e173b31a4dc160a47a54430c3e37730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2d4a30c1a862279a0e75dcbd4e8916') in 0.019493 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h19_blue.prefab
+  artifactKey: Guid(bc6de2e85177d4246be7b55bae295a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h19_blue.prefab using Guid(bc6de2e85177d4246be7b55bae295a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa2ef34346414477a8b2e12a53d60ec') in 0.018146 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h20_green.prefab
+  artifactKey: Guid(7cdc761cd95e40544ab74af47b898e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h20_green.prefab using Guid(7cdc761cd95e40544ab74af47b898e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcebe8681f4cd9896a797db24dca9d29') in 0.018416 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h20_purple.prefab
+  artifactKey: Guid(94ca0349a1bcf10408fd5590aab74ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h20_purple.prefab using Guid(94ca0349a1bcf10408fd5590aab74ee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1519a7d3548009efd582d86f1764b8') in 0.016683 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h21_white.prefab
+  artifactKey: Guid(4cc942a438c6f8f4d8278b6b816ad897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h21_white.prefab using Guid(4cc942a438c6f8f4d8278b6b816ad897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de75db9e7fef04d5240348616e103cf2') in 0.016921 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h22_grey.prefab
+  artifactKey: Guid(ec4cbb99553961a44a3ffe1f0b447a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h22_grey.prefab using Guid(ec4cbb99553961a44a3ffe1f0b447a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d32ee96b9b15391fa7ee451656662f') in 0.020081 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h22_yellow.prefab
+  artifactKey: Guid(5d150ac33bd28274f9f9222d866cc9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h22_yellow.prefab using Guid(5d150ac33bd28274f9f9222d866cc9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64f6b31f131ace1ce14e4f5259f69070') in 0.020312 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_brown.prefab
+  artifactKey: Guid(84cacf16b0c324f49af2d0c4ac8e2f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_brown.prefab using Guid(84cacf16b0c324f49af2d0c4ac8e2f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71c379bb6c1fbd9ff808e9b565949c88') in 0.018938 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_blue.prefab
+  artifactKey: Guid(6c7a5ff39f4817c45bfb23e529f9d47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_blue.prefab using Guid(6c7a5ff39f4817c45bfb23e529f9d47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971beb171e4ee97772f8ce13ebd4c0ea') in 0.022512 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h21_green.prefab
+  artifactKey: Guid(73e8ba65e784845419d6f590cabcfd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h21_green.prefab using Guid(73e8ba65e784845419d6f590cabcfd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84ce301103fdf0dcc4aa44e17fe5a5c') in 0.027200 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h07_grey.prefab
+  artifactKey: Guid(9c9397e2a21f93a48ab1e9bf7ca7dd23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h07_grey.prefab using Guid(9c9397e2a21f93a48ab1e9bf7ca7dd23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f879ded44c39116c5bebc44a7db41d') in 0.025651 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h07_red.prefab
+  artifactKey: Guid(22ce1f7b695e0ac41976b253e4c3d120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h07_red.prefab using Guid(22ce1f7b695e0ac41976b253e4c3d120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c912d7cdebbb525abf645a82fa5c34f3') in 0.022688 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h20_red.prefab
+  artifactKey: Guid(7f5df554a28d34b4e9594098ec035220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h20_red.prefab using Guid(7f5df554a28d34b4e9594098ec035220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b86480d8d6d1c266d9d34f0384a893') in 0.020164 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h06_green.prefab
+  artifactKey: Guid(9da302a15967c03459709f9999bde147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h06_green.prefab using Guid(9da302a15967c03459709f9999bde147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d183632468804be7077ea08f8005d7') in 0.019227 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h16_red.prefab
+  artifactKey: Guid(7bad302c808ab3042aec84334e78517b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h16_red.prefab using Guid(7bad302c808ab3042aec84334e78517b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eff3894e7cc44def811d7b1f85f3dd0') in 0.023621 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_purple.prefab
+  artifactKey: Guid(3d6d9bdc2cad4b641975a91a2aeb2e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_purple.prefab using Guid(3d6d9bdc2cad4b641975a91a2aeb2e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4d1791ca6c14ec41c6000ec29c53f7') in 0.021313 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h12_green.prefab
+  artifactKey: Guid(9cfefd6778e145f409e385e7a7cfb316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h12_green.prefab using Guid(9cfefd6778e145f409e385e7a7cfb316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588e764e53ea94d2d00b7c37a8157aaf') in 0.022459 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h08_yellow.prefab
+  artifactKey: Guid(218410e8df0c8744e8914581b558761b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h08_yellow.prefab using Guid(218410e8df0c8744e8914581b558761b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147d6b64e1ea2abee56704189275b81f') in 0.022495 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h10_yellow.prefab
+  artifactKey: Guid(83e88fdcec51c8446af80238eeba7fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h10_yellow.prefab using Guid(83e88fdcec51c8446af80238eeba7fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42fcd25a807918ac44a17cee35b4df97') in 0.022014 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h14_purple.prefab
+  artifactKey: Guid(e308f3580cdcdcc4f9edbd45bb17551b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h14_purple.prefab using Guid(e308f3580cdcdcc4f9edbd45bb17551b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f824b23c58ec319db14bd3be9e37d6') in 0.039822 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_grey.prefab
+  artifactKey: Guid(d9d5fd60871fda34cb9f348112dbb5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h17_grey.prefab using Guid(d9d5fd60871fda34cb9f348112dbb5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb5d8e9bb5c6ee5b7b12f3afe98a276') in 0.034249 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_red.prefab
+  artifactKey: Guid(545502e7e8136444080c0acd9d09964f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_red.prefab using Guid(545502e7e8136444080c0acd9d09964f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ef97e233602008e9ebda67982861b3') in 0.051482 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_blue.prefab
+  artifactKey: Guid(124c86fb888e1144d864c675acfff98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h18_blue.prefab using Guid(124c86fb888e1144d864c675acfff98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6879a9063cf0dd86b7f8c0021699159b') in 0.073238 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_green.prefab
+  artifactKey: Guid(9d020bf1a09a1a04a81e40e86d7e1d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h11_green.prefab using Guid(9d020bf1a09a1a04a81e40e86d7e1d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b7e84ba523f526ffe81baa8f115c9e') in 1.089618 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h05_green.prefab
+  artifactKey: Guid(57349f8c8ead89140afd4e0e397dc594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h05_green.prefab using Guid(57349f8c8ead89140afd4e0e397dc594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084198a5cd13eb5208c0314e8e3b9d74') in 0.039476 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h09_red.prefab
+  artifactKey: Guid(4dbaef3c9b60bb246937a241334d5f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h09_red.prefab using Guid(4dbaef3c9b60bb246937a241334d5f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2db3227cdcf4d6f855dc9139503e435') in 0.061962 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h15_green.prefab
+  artifactKey: Guid(1c173b988d74fdb4591656d7b56f6451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h15_green.prefab using Guid(1c173b988d74fdb4591656d7b56f6451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6041b7cb54ab5c085c9e98d6aed09cce') in 0.033172 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h15_grey.prefab
+  artifactKey: Guid(b0042d4c9678e314ba168de252020e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Items - Mega Pack/Prefabs/Swords/1Hand Swords/sword1h15_grey.prefab using Guid(b0042d4c9678e314ba168de252020e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812f2fd94940a1c9041d3a9dd7e33463') in 0.037251 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 48.569478 seconds.
+  path: Assets/Monsters Ultimate Pack 01 Cute Series/Egg Cute Series
+  artifactKey: Guid(d40236cad300423469e3060c1be38804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Ultimate Pack 01 Cute Series/Egg Cute Series using Guid(d40236cad300423469e3060c1be38804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d8dc81065f9e5b4675e0419d4a05df') in 0.001050 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.123835 seconds.
+  path: Assets/Monsters Ultimate Pack 01 Cute Series/Egg Cute Series/Prefabs/Egg.prefab
+  artifactKey: Guid(2a7aadcbb75c8e9499da81394f641c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monsters Ultimate Pack 01 Cute Series/Egg Cute Series/Prefabs/Egg.prefab using Guid(2a7aadcbb75c8e9499da81394f641c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b64e2131e521bc31bc99efd2e133fa') in 0.075021 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 38
+========================================================================
+Received Import Request.
+  Time since last request: 499.534134 seconds.
+  path: Assets/Scenes/Start Menu.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start Menu.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aba4a8b4d5c190d36a740b7143dd7e1') in 0.001460 seconds
+Internal: There are remaining Allocations on the JobTempAlloc. This is a leak, and will impact performance
+To Debug, run app with -diag-job-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.743 seconds
+Refreshing native plugins compatible for Editor in 17.72 ms, found 9 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.009 seconds
+Domain Reload Profiling: 3749ms
+	BeginReloadAssembly (351ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (159ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (1276ms)
+		LoadAssemblies (732ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (640ms)
+			TypeCache.Refresh (611ms)
+				TypeCache.ScanAssembly (568ms)
+			ScanForSourceGeneratedMonoScriptInfo (7ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (2010ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1146ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (41ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (165ms)
+			ProcessInitializeOnLoadAttributes (892ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 26.68 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.24 ms.
+Unloading 5180 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 70 unused Assets / (1.4 MB). Loaded Objects now: 5818.
+Memory consumption went from 259.9 MB to 258.4 MB.
+Total: 15.714400 ms (FindLiveObjects: 0.965600 ms CreateObjectMapping: 0.876000 ms MarkObjects: 12.325800 ms  DeleteObjects: 1.542900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.846 seconds
+Refreshing native plugins compatible for Editor in 11.01 ms, found 9 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.897 seconds
+Domain Reload Profiling: 3737ms
+	BeginReloadAssembly (232ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (71ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (1497ms)
+		LoadAssemblies (956ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (614ms)
+			TypeCache.Refresh (592ms)
+				TypeCache.ScanAssembly (566ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (1898ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1009ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (45ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (141ms)
+			ProcessInitializeOnLoadAttributes (753ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 73.02 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.22 ms.
+Unloading 5180 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 67 unused Assets / (1.4 MB). Loaded Objects now: 5834.
+Memory consumption went from 259.9 MB to 258.5 MB.
+Total: 15.056600 ms (FindLiveObjects: 0.812500 ms CreateObjectMapping: 0.413800 ms MarkObjects: 12.986700 ms  DeleteObjects: 0.841700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Zixiao\VR_Sword\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.749 seconds
+Refreshing native plugins compatible for Editor in 16.21 ms, found 9 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.262 seconds
+Domain Reload Profiling: 4004ms
+	BeginReloadAssembly (223ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (67ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (1403ms)
+		LoadAssemblies (530ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (954ms)
+			TypeCache.Refresh (936ms)
+				TypeCache.ScanAssembly (912ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (19ms)
+	FinalizeReload (2263ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (845ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (141ms)
+			ProcessInitializeOnLoadAttributes (599ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 30.03 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.24 ms.
+Unloading 5180 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 67 unused Assets / (1.4 MB). Loaded Objects now: 5850.
+Memory consumption went from 259.9 MB to 258.5 MB.
+Total: 11.485700 ms (FindLiveObjects: 0.811600 ms CreateObjectMapping: 0.201700 ms MarkObjects: 9.364300 ms  DeleteObjects: 1.105900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

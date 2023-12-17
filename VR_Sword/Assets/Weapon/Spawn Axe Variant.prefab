@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3382418113540395375
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913412744878907502, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5805587590819548939, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_Name
+      value: Spawn Axe Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5805587590819548939, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5980057996114885223, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: Object
+      value: 
+      objectReference: {fileID: 8885486932136835666, guid: ca265dc4e49b4984c85f970a3646feac, type: 3}
+    - target: {fileID: 5980057996114885223, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
+      propertyPath: weaponPrefab
+      value: 
+      objectReference: {fileID: 8885486932136835666, guid: ca265dc4e49b4984c85f970a3646feac, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e8b153e841800364cb6eb5f8ee2fd81f, type: 3}
